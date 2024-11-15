@@ -4,7 +4,7 @@ These terms govern your use of the {{WebsiteName}} website and the {{AppName}} D
 
 In these terms, “you” and “your” refer to the natural person or legal entity using the Services. If you are entering into this agreement on behalf of a company or other legal entity, you represent that you have the authority to bind that entity and its affiliates to these terms, and hereafter “you” and “your” refers to that entity.
 
-Please read these terms carefully. These terms are a legally binding contract between you and {{CompanyName}} LLC. By using the Services in any way, you agree to all of these terms, and the agreement is effective as of the date your use of the Services begins. If you do not agree to the terms, you may not use or access the Services in any way.
+Please read these terms carefully. These terms are a legally binding contract between you and {{CompanyName}}. By using the Services in any way, you agree to all of these terms, and the agreement is effective as of the date your use of the Services begins. If you do not agree to the terms, you may not use or access the Services in any way.
 
 If you have any questions, comments, or concerns regarding these terms, please contact us using the "Contact Us" section below.
 
@@ -13,6 +13,8 @@ If you have any questions, comments, or concerns regarding these terms, please c
 Anyone under the age of thirteen (13) is not allowed to use the Services. By using the Services in any way, you represent and warrant that you are at least 13 years of age. The laws in your country may set a different minimum age for consenting to the processing of your personal data, and in that case, you must additionally be at least that age to use the Services. Anyone who is a minor (as defined by your relevant jurisdiction) can only use the Services with the permission of your parent or legal guardian.
 
 ## Restrictions on Use of {{CompanyName}} Services
+
+<!-- This essentially establishes the "rules" of your app.  Accountability for any activity your app facilitates which isn't against these rules can fall onto the app creator, which could be a legal problem. -->
 
 By using the Services, you agree that you will not contribute any content or submissions or otherwise use or interact with the Services in a manner that:
 
@@ -106,6 +108,8 @@ If you decide to purchase one of our paid offerings, you agree that the purchase
 
 ### Requested Termination
 
+<!-- You will need to provide a way for users to revoke consent from using your app.  When they do so you will need to remove any user data they've given you. -->
+
 You may request deletion of your account data at any time by contacting us in the [support server]({{SupportServerLink}}) using the account for which you would like to request deletion. You are responsible for making sure any Content you wish to keep is saved before requesting deletion. Upon receipt of your request, we will delete all data associated with your account as soon as we are able, subject to our data retention and backup policies, and subject to applicable law.
 
 Upon termination, any outstanding fees and charges you owe to us will remain due and payable.
@@ -159,7 +163,7 @@ We do not claim ownership of any intellectual property posted by our users using
 
 **Reservations of Rights:** Except for the limited rights expressly granted to you within these Terms, {{CompanyName}} reserves all rights, title, and interest in and to the Services, the underlying software, and any and all improvements, modifications and updates to them (including any arising from Feedback), including without limitation all related intellectual property rights. No rights are granted to you other than as expressly set forth in these Terms. Nothing in these Terms will impair {{CompanyName}}’s right to develop, acquire, license, market, promote or distribute products, software or technologies that perform the same or similar functions as, or otherwise compete with those you develop, produce, market, or distribute.
 
-<!-- The following is relevant to the US DMCA and provides a means for claimants to register a copyright strike.  For the US DMCA, you will need to register as a DMCA separately at https://www.copyright.gov/dmca-directory/ -->
+<!-- The following is relevant to the US DMCA and provides a means for claimants to register a copyright strike.  For the US DMCA, you will need to register as a DMCA agent separately at https://www.copyright.gov/dmca-directory/ -->
 
 ### Takedown Notice
 
@@ -199,13 +203,19 @@ To the fullest extent permitted, each party waives the right to trial by jury in
 
 ## Disclaimer of Warranties
 
+<!-- Important for legal protection and needs to be all caps for legal reasons, not recommended to modify except to fill in name -->
+
 TO THE MAXIMUM EXTENT PERMITTED UNDER APPLICABLE LAW, THE SERVICES AND DOCUMENTATION ARE PROVIDED “AS IS” WITHOUT OTHER WARRANTY OF ANY KIND, AND {{CompanyName}} MAKES NO WARRANTIES, EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, WITH RESPECT TO THE SERVICES. {{CompanyName}} SPECIFICALLY AND EXPLICITLY DISCLAIMS ALL OTHER WARRANTIES, EXPRESS AND IMPLIED, INCLUDING WITHOUT LIMITATION THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, THOSE ARISING FROM A COURSE OF DEALING OR USAGE OR TRADE, AND ALL SUCH WARRANTIES ARE HEREBY EXCLUDED TO THE FULLEST EXTENT PERMITTED BY LAW. FURTHER, {{CompanyName}} DOES NOT WARRANT THE SERVICE WILL BE ERROR-FREE OR THAT THE USE OF THE SERVICE WILL BE UNINTERRUPTED.
 
 ## Limitation of Liability
 
+<!-- Important for legal protection and needs to be all caps for legal reasons, not recommended to modify except to fill in name -->
+
 TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT WILL {{CompanyName}} BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY INDIRECT, EXEMPLARY, CONSEQUENTIAL, SPECIAL, DIRECT, INCIDENTAL, OR PUNITIVE DAMAGES, INCLUDING DAMAGES FOR LOST PROFITS, LOST REVENUES, LOST SAVINGS, LOSS OF GOODWILL, LOSS OF DATA, SERVICE INTERRUPTION, COMPUTER DAMAGE OR SYSTEM FAILURE, OR OTHER DAMAGES ARISING FROM YOUR USE OF THE SERVICES, WHETHER BASED ON WARRANTY, CONTRACT, STATUTE, TORT, STRICT LIABILITY, OR ANY OTHER LEGAL THEORY, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. ADDITIONALLY OUR LIMIT OF LIABILITY TO YOU FOR ANY CAUSE WHATSOEVER AND REGARDLESS OF THE FORM OF THE ACTION SHALL BE THE GREATER OF (A) THE AMOUNT PAID, IF ANY, BY YOU TO US DURING THE SIX (6) MONTH PERIOD PRIOR TO ANY CAUSE OF ACTION ARISING, OR (B) $100 USD. NOTHING IN THIS AGREEMENT IS INTENDED TO EXCLUDE OR LIMIT EITHER PARTY’S LIABILITY FOR DEATH, PERSONAL INJURY, OR PROPERTY DAMAGE CAUSED BY NEGLIGENCE, OR FOR FRAUD. IN THE CASE OF A JURISDICTION THAT DO NOT ALLOW EXCLUSIONS OR LIMITATIONS FOR SUCH DAMAGES SOME OR ALL OF THE ABOVE DISCLAIMERS OR LIMITATIONS MAY NOT APPLY TO YOU.
 
 ## Indemnification
+
+<!-- Important for legal protection in the case someone sues you because of a user's actions, not recommended to modify except to fill in name -->
 
 If a third party initiates or threatens legal action against {{CompanyName}} for a claim, such as:
 

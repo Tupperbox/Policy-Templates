@@ -14,7 +14,7 @@ As a convenience to visitors to our Sites, we may also provide links to other we
 
 ## Information Collected
 
-<!-- This section describes what exact types of data will be collected.  It's important to enumerate any kind of data your user might want to know you have on them. -->
+<!-- This section describes what exact types of data will be collected.  It's important to enumerate any kind of data about your user your user might want to know you have. -->
 
 We do not sell User Data to third parties and we only collect information that is necessary for the operation of the Services. This includes:
 
@@ -106,6 +106,8 @@ When you provide feedback to us via any available channel, including suggestions
 
 ## Legal Basis for Processing
 
+<!-- This section is important for establishing the reasons you are collecting the data you collect.  Under the GDPR all data must be collected under a "Lawful basis" see https://gdpr.eu/article-6-how-to-process-personal-data-legally/ -->
+
 Depending on your relationship with {{CompanyName}}, we may use your User Data for different purposes. Where required by applicable law in relation to the particular use, we will obtain your consent to collect and use your User Data. Otherwise, we will rely on another legal basis, such as in connection with a contract or for our legitimate interests, as set out below.
 
 In the following tables:
@@ -158,6 +160,8 @@ Most User Data can be made publicly searchable through the Discord bot using you
 
 ## Cookies
 
+<!-- If you use any kind of marketing or tracking cookies they will need to be enumerated here, or in a cookie policy, and the user must be given the option to opt-out.  Only relevant if you have a website. -->
+
 As is true of most websites, when you visit our Sites, cookies will be placed on your device (computer, mobile or tablet). A "cookie" is a small text file that is placed on your device by websites you visit.
 
 {{AppName}} only uses strictly necessary cookies, which enable the Sites to function correctly and deliver the Services and products you have requested. These cookies do not gather information about you that could be used for marketing or remembering other websites you have visited on the internet. We use persistent cookies, which remain on your device after leaving the Sites, in order to keep you signed in between sessions. You can generally disable and manage the use of cookies by changing your browser settings, though this is not recommended for our Sites as it will likely break site functionality.
@@ -174,7 +178,7 @@ As is true of most websites, when you visit our Sites, cookies will be placed on
 
 Although we will do our best to protect the personal information you provide to us, we advise that no method of electronic transmission or storage is fully secure, and no one can guarantee absolute data security.
 
-<!-- This is only relevant if you do not keep separate account identifiers, like email addresses -->
+<!-- Below is only relevant if you do not keep separate account identifiers, like email addresses -->
 
 {{AppName}} does not directly keep accounts, and uses exclusively third party services such as Discord to provision access to your data. You are responsible for the security of any third-party accounts you choose to use, including Discord. To ensure that you are able to continue to have access to your account, we strongly recommend use of appropriate security measures, such as use of a secure, unique password, and two factor authentication on Discord.
 
@@ -190,7 +194,7 @@ We do not knowingly collect Personal Data from children under the age of 13\. If
 
 ## International Transfer of User Data
 
-<!-- Discord is located inside the US, so this will always be relevant for Discord apps -->
+<!-- Discord is located inside the US, so this will always be relevant for Discord apps. -->
 
 The User Data that we collect or receive about you when providing the Services may be transferred to and processed by recipients which are located inside or outside the European Economic Area ("EEA"). {{CompanyName}} transfers your User Data to the United States, or in some cases the data may continue to reside in the EEA.
 
@@ -221,6 +225,8 @@ Your request to exercise your rights above may be limited in certain situations,
 ## Changes to This Policy
 
 {{CompanyName}} reserves the right to modify or update this Policy from time to time to reflect changes in technology, our practices, law and other factors impacting the collection/use of User Data.
+
+<!-- User consent to policy changes is contingent on proper notification so ensure that you are providing the user with easy access to these policies. -->
 
 If this Policy is updated, we will attempt to notify you via an announcement in the [support server]({{SupportServerLink}}) and a prominent notice displayed on this website. You are encouraged to regularly check this Policy for any updates.
 
