@@ -160,7 +160,7 @@ Most User Data can be made publicly searchable through the Discord bot using you
 
 ## Cookies
 
-<!-- If you use any kind of marketing or tracking cookies they will need to be enumerated here, or in a cookie policy, and the user must be given the option to opt-out.  Only relevant if you have a website. -->
+<!-- If you use any kind of marketing or tracking cookies they will need to be enumerated here, or in a cookie policy referenced here, and the user must be given the option to opt-out.  Only relevant if you have a website. -->
 
 As is true of most websites, when you visit our Sites, cookies will be placed on your device (computer, mobile or tablet). A "cookie" is a small text file that is placed on your device by websites you visit.
 
@@ -178,7 +178,7 @@ As is true of most websites, when you visit our Sites, cookies will be placed on
 
 Although we will do our best to protect the personal information you provide to us, we advise that no method of electronic transmission or storage is fully secure, and no one can guarantee absolute data security.
 
-<!-- Below is only relevant if you do not keep separate account identifiers, like email addresses -->
+<!-- Below is only relevant if you do not keep separate account identifiers, like email addresses.  If you do handle your own account registration off-platform, you will need to enumerate any personal data collected by your registration process. -->
 
 {{AppName}} does not directly keep accounts, and uses exclusively third party services such as Discord to provision access to your data. You are responsible for the security of any third-party accounts you choose to use, including Discord. To ensure that you are able to continue to have access to your account, we strongly recommend use of appropriate security measures, such as use of a secure, unique password, and two factor authentication on Discord.
 
