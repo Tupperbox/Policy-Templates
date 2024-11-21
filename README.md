@@ -1,20 +1,20 @@
 # Tupperbox Policy Templates
 
-## About Our Project
+## About This Project
 
 On the 27th of April, 2016, the European Union published the General Data Protection Regulation, or GDPR, which went into effect on the 25h of May, 2018. This piece of legislation fundamentally altered the dynamic between tech companies and their users.
 
-We at Tupperbox wholeheartedly believe in the vision of transparency and accountability outlined in the GDPR. We are users of apps and we value our privacy and consumer rights just as much as anyone else. This is why, when publishing our own Terms of Service and Privacy Policies, we decided to take an approach in drafting these policies that maximally aligns with the values enshrined in the GDPR, instead of just creating policies that maximally cover our asses.
+Before becoming small business owners, the two of us at Tupperbox were longtime users of all sorts of software and services. We value our privacy and consumer rights just as much as anyone else, and wholeheartedly believe in the vision of transparency and accountability outlined in the GDPR. When it came time to publish our own Terms of Service and Privacy Policy, we set out to draft policies that maximally align with the values enshrined in the GDPR, instead of just creating policies that maximally cover our asses with dense legal devices and arbitration clauses.
 
-Unfortunately, when searching for templates or products to help draft these policies, we found that the product space for legal drafting heavily favors ass-covering over establishing good faith symbiotic relationship with the consumer. Many of the policies we reviewed seemed far too legally dense, terse, or were just outright written with opposition of the consumer in mind. We felt these policies established a parasitic relationship with the consumer, and almost all of them seemed overreaching.
+Unfortunately, when searching for templates or products to help draft these policies, we found that the product space for legal drafting heavily favors ass-covering over establishing good faith symbiotic relationship with the consumer. Many of the policies we reviewed seemed far too legally dense, terse, or just outright written with opposition of the consumer in mind - as if meant to establish a parasitic relationship with the consumer, far overreaching what should be a minimal contract between a user and a service they may have only used once.
 
-We were unsatisfied with the products on offer and decided to spend weeks drafting our own policies from scratch. We wanted to create approachable, easy to understand policies which aligned tightly with the spirit of consumer protections. Our hope is that these policies will serve to reassure our users that we are working with their rights and interests in mind. In many ways, the GDPR was the first big step in moving toward a brighter horizon, but unfortunately it also introduces a roadblock for small app creators who need to comply with their regulations.
+We decided to instead spend weeks working with our lawyer to draft our own policies from scratch. We wanted approachable, easy to understand policies that align tightly with the spirit of consumer protections, and that communicate to our users in plain language our genuine intent to run Tupperbox with their rights and interests in mind. This ended up being a serious effort - the GDPR was in many ways the first big step in moving toward a brighter horizon for consumer rights, but unfortunately it also introduces a significant roadblock for small app creators who need to comply with their regulations.
 
-Our goal with this project is hopefully to showcase and sponsor a different kind of landscape, where users may rest assured that the app creators they are entrusting their data to will use their data responsibly and transparently, and are willing to be held accountable for failures to advocate on the user's behalf.
+We're releasing our work under CC0 so that others in our position can have a helping hand in getting their own pro-consumer policies published. Our hope is to showcase and advance a different kind of landscape for small apps, where users can be confident that the app creators they entrust their data to will use their data responsibly and transparently, and are willing to be held to account for any failures to do so.
 
-Tupperbox is primarily a Discord bot, and as a Discord bot, much of the existing language surrounding these kinds of policies tends not to apply very well. Our policies are tailored to the Discord bot platform, and as such have a few unique provisions and structures that fellow bot developers might find uniquely useful.
+## How to Use This Project
 
-## How to Use Our Project
+Tupperbox is primarily a Discord bot, and as such our policies have a few unique provisions and structures that are tailored to the Discord bot platform. If your app is not a Discord bot you may still find our policies useful, but you may need to make some modifications to better fit your app's platform.
 
 Our policies are presented in the policies folder in markdown format under no copy restrictions whatsoever, as released by the CC0 license. You can convert the markdown text to html or another document format if needed.
 
@@ -24,7 +24,7 @@ The policies have been marked up with placeholders using `{{Placeholder}}` synta
 
 While you may use these policies however you like, we would advise that you consult with a legal professional regarding your own policies to fully understand the implications and protections therein, especially if you are receiving money from your users.
 
-## How to Contribute to Our Project
+## How to Contribute to This Project
 
 Open an issue if you have a question or comment regarding any section of these policies. Alternatively, DM @gasparr on Discord.
 
